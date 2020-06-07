@@ -1,0 +1,40 @@
+.ui.segment,
+.ui.menu {
+  border-radius: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+}
+.image {
+  height: 250px;
+}
+.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+}
+.social:hover {
+  transform: translateY(-2px);
+}
+.ui.header.item {
+  padding-left: 0%;
+  margin-left: 0%;
+}
+.size {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(370px, 0.5fr)
+  );
+}
+
+.size img {
+  width: 370px;
+}
+
+.foot {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.c {
+  height: 250px;
+}
