@@ -38,7 +38,7 @@
 
 <p> I would try to break down the app into even smaller reusable components and add a bit more style.
 
-
+## Thanks!
 
 
 
