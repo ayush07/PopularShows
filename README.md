@@ -30,11 +30,11 @@
 - <b>LODASH </b> library for sorting the JSON data in ascending alphanumeric order.
 - <b>REACT-ROUTER-DOM </b> for routing.
 
-## Are there any improvements I could make to your submission?
+## Are there any improvements I could make to this submission?
 
 <p> Yes, actually I couldn't properly test the loading state of the app when JSON data is fetched.
   
-## What would I do differently if I were allocated more time?
+## What would I do differently if I had more time?
 
 <p> I would try to break down the app into even smaller reusable components and add a bit more style.
 
