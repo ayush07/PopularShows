@@ -24,7 +24,7 @@
 
 ## How did I decide on the technical and architectural choices used as part of my solution?
 
-<p>List of Libraries and frameworks used:</p>
+
 - <b>SEMANTIC UI</b> framework for theming the application which offers a completely mobile responsive experience.
 - <b>AXIOS</b> library for fetching the JSON data.
 - <b>LODASH </b> library for sorting the JSON data in ascending alphanumeric order.
